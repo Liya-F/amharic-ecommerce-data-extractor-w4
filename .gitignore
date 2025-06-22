@@ -1,0 +1,4 @@
+data/
+.venv/
+.env
+ethio_mart_session.session
